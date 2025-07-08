@@ -1,0 +1,13 @@
+names:
+- Court
+- ball
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: pickleball-vision-vtw2r
+  url: https://universe.roboflow.com/monstucture/pickleball-vision-vtw2r/dataset/1
+  version: 1
+  workspace: monstucture
+test: ../test/images
+train: Pickleball-Vision-1/train/images
+val: Pickleball-Vision-1/valid/images
