@@ -5,3 +5,4 @@ yolov8x.pt
 .env.test.local
 .env.production.local   
 .venv
+yolov5l6u.pt
