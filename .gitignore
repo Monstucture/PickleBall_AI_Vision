@@ -6,3 +6,5 @@ yolov8x.pt
 .env.production.local   
 .venv
 yolov5l6u.pt
+*.
+/runs
